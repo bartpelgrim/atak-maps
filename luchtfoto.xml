@@ -4,7 +4,7 @@
 	<minZoom>5</minZoom>
 	<maxZoom>20</maxZoom>
 	<tileType>jpeg</tileType>
-	<url>https://service.pdok.nl/hwh/luchtfotorgb/wmts/v1_0/Actueel_orthoHR/EPSG:3857/{$z}/{$x}/{$y}</url>
+	<url>https://service.pdok.nl/hwh/luchtfotorgb/wmts/v1_0/Actueel_orthoHR/EPSG:3857/{$z}/{$x}/{$y}.jpeg</url>
 	<tileUpdate>None</tileUpdate>
 	<backgroundColor>#000000</backgroundColor>
 	<coordinatesystem>EPSG:3857</coordinatesystem>
